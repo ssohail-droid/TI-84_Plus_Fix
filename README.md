@@ -11,7 +11,8 @@ This guide will help you **revive your old TI-84 calculator**.
 <p align="center">
   <img src="Doc/Screenshot 2025-08-28 213141.png" alt="Alt text" width="500">
 </p>
-# Step 1: Open the Calculator
+
+## Step 1: Open the Calculator
 
 1. Use the **Torx T6 screwdriver** to remove the outer screws.  
 2. Carefully lift the back cover.  
