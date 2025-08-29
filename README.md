@@ -1,1 +1,1 @@
-# TI-84_Plus_Fix
+# TI-84 Plus Battry Panel Fix
