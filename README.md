@@ -21,4 +21,13 @@ This guide will help you **revive your old TI-84 calculator**.
   <img src="Doc/IMG_7117.jpg" alt="Alt text" width="500">
 </p>
 
+## Step 2: Inspect and Clean (Example)
+
+1. Check for dust, corrosion, or loose components.  
+2. Use a small brush or compressed air to clean the inside.  
+3. Make note of any damaged components that might need replacing.
+
+<p align="center">
+  <img src="Doc/IMG_71tt18.jpeg" alt="Alt text" width="500">
+</p>
 
