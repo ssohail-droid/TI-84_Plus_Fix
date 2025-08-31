@@ -79,5 +79,17 @@ This guide will help you **revive your old TI-84 calculator**.
   </a>
 </p>
 
+## Step 5: Reassembling the Device
+🔧 Note: Handle all components gently to avoid damaging pads or connectors.
+1. Reattach the back panel: Align it carefully with the edges of the device.
+2. Secure with screws: Replace all screws removed earlier and tighten them evenly. Do not overtighten, as this may strip the threads or crack the plastic.
+3. Insert the batteries: Place the batteries back into their compartment, ensuring correct orientation (match + and –).
+4. Test the device: Power it on to confirm everything works correctly.
 
+**Tips:** 
+-Keep a small container for screws to avoid losing them.
+-If the device doesn’t power on, double-check battery placement and connections.
+-Work on a clean, flat surface to prevent dropping small parts.
+
+## Congratulations! Your calculator is repaired.
 
