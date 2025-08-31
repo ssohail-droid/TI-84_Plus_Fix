@@ -31,7 +31,11 @@ This guide will help you **revive your old TI-84 calculator**.
   <img src="Doc/IMG_71tt18.jpeg" alt="Alt text" width="500">
 </p>
 
-[![Demo GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NqZDRsMThoNnQ3eHp0cG5yMm9odjdjdjgzMHZhbjNvMjJrMTJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6Djqx6WOUqOioKeoB/giphy.gif)](https://example.com)
+<p align="center">
+  <a href="https://example.com">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NqZDRsMThoNnQ3eHp0cG5yMm9odjdjdjgzMHZhbjNvMjJrMTJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6Djqx6WOUqOioKeoB/giphy.gif" alt="Demo GIF">
+  </a>
+</p>
 
 
 ## Step 3: Cleaning Copper Pads
