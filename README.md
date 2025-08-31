@@ -31,7 +31,27 @@ This guide will help you **revive your old TI-84 calculator**.
   <img src="Doc/IMG_71tt18.jpeg" alt="Alt text" width="500">
 </p>
 
-## Step 3a: Soldering Tips
+[![Demo GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NqZDRsMThoNnQ3eHp0cG5yMm9odjdjdjgzMHZhbjNvMjJrMTJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6Djqx6WOUqOioKeoB/giphy.gif)](https://example.com)
+
+
+## Step 3: Cleaning Copper Pads
+1) Gather your materials:
+-Isopropyl alcohol (90% or higher)
+-Cotton swabs or a soft, lint-free cloth
+-Soft-bristled brush (optional, like a toothbrush)
+
+2) Remove loose debris: Gently brush the pad to remove dust or dirt.
+3) Clean with alcohol: Dampen a cotton swab or cloth with isopropyl alcohol and rub the copper pad gently.
+4) Remove oxidation (optional): Lightly rub the pad with a clean pencil eraser if tarnished, then brush off residue.
+5) Final wipe: Use a dry swab or cloth to ensure the pad is clean and shiny.
+
+**Tips:**
+-Avoid applying too much pressure; the pad can lift if scratched.
+-Make sure the pad is completely dry before moving to soldering.
+-Work in a well-lit area to clearly see the copper surface.
+
+
+## Step 4: Soldering
 
 ⚠️ **Warning:** Soldering irons get very hot. Handle with care.  
 
