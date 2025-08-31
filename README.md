@@ -31,11 +31,7 @@ This guide will help you **revive your old TI-84 calculator**.
   <img src="Doc/IMG_71tt18.jpeg" alt="Alt text" width="500">
 </p>
 
-<p align="center">
-  <a href="https://example.com">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NqZDRsMThoNnQ3eHp0cG5yMm9odjdjdjgzMHZhbjNvMjJrMTJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6Djqx6WOUqOioKeoB/giphy.gif" alt="Demo GIF">
-  </a>
-</p>
+
 
 
 ## Step 3: Cleaning Copper Pads
@@ -55,6 +51,13 @@ This guide will help you **revive your old TI-84 calculator**.
 -Work in a well-lit area to clearly see the copper surface.
 
 
+<p align="center">
+  <a href="https://example.com">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NqZDRsMThoNnQ3eHp0cG5yMm9odjdjdjgzMHZhbjNvMjJrMTJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6Djqx6WOUqOioKeoB/giphy.gif" alt="Demo GIF">
+  </a>
+</p>
+
+
 ## Step 4: Soldering
 
 ⚠️ **Warning:** Soldering irons get very hot. Handle with care.  
@@ -69,5 +72,12 @@ This guide will help you **revive your old TI-84 calculator**.
 - Avoid touching the tip or molten solder.  
 - Work in a well-ventilated area.  
 - Do not overheat the pads; this can damage the board.
+
+  <p align="center">
+  <a href="https://example.com">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV3djMzdmcydHZpaGJwYWZkYWV3NGxxYzI2MGl6NnZmOGRtYW81aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zlFpmadpHMQknRnal/giphy.gif" alt="Demo GIF">
+  </a>
+</p>
+
 
 
