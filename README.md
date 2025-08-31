@@ -90,6 +90,9 @@ This guide will help you **revive your old TI-84 calculator**.
 -Keep a small container for screws to avoid losing them.
 -If the device doesn’t power on, double-check battery placement and connections.
 -Work on a clean, flat surface to prevent dropping small parts.
+<p align="center">
+  <img src="Doc/IMG_7117.jpg" alt="Alt text" width="500">
+</p>
 
 ## Congratulations! Your calculator is repaired.
 
